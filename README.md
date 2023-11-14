@@ -10,3 +10,5 @@ User-Friendly: Intuitive and responsive design for a seamless user experience.
 # Technologies Used
 Frontend: HTML, CSS, JavaScript
 Movie Data API: RapidAPI
+
+this is all about this project
